@@ -6,7 +6,7 @@ A lightweight, user-friendly desktop application built in Python that translates
 # 💡 What is this Project?
 * This project is a desktop-based software application designed to solve language barriers. Instead of opening a heavy web browser to look up translations, this application runs directly on your operating system as a native window.
 
-* It provides a simple Input-to-Output system: you provide the text, select your desired languages from a dropdown menu, and the application handles the complex API communication in the background to return an accurate translation in real time.
+* **It provides a simple Input-to-Output system:** you provide the text, select your desired languages from a dropdown menu, and the application handles the complex API communication in the background to return an accurate translation in real time.
 
 # 🎯 What is the Use of this Tool?
 **Quick Localization:** Ideal for developers, students, or professionals who need to quickly translate text snippets without browser distractions.
